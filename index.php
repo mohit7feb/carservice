@@ -51,9 +51,9 @@
                <div class="logo"><a href="index.php"><img src="images/logo.png"></a></div>
                <div class="contact_menu">
                   <ul>
-                      <li><img src="images/call-icon.png" class="padding_right_10"><a href="tel:+011234567890">Call: +01 1234567890</a></li>
-                      <li><img src="images/mail-icon.png" class="padding_right_10"><a href="mailto:info@carwash.com">Email: info@carwash.com</a></li>
-                      <li><img src="images/map-icon.png" class="padding_right_10"><a href="#">Location: 123 Clean St, Car City</a></li>
+<!--                       <li><img src="images/call-icon.png" class="padding_right_10"><a href="tel:+011234567890">Call: +01 1234567890</a></li> -->
+                      <li><img src="images/mail-icon.png" class="padding_right_10"><a href="mailto:info@carwas">info@trezocar.online</a></li>
+                      <li><img src="images/map-icon.png" class="padding_right_10"><a href="#">5396 North Reese Avenue,Fresno CA 93722</a></li>
                   </ul>
               </div>
               
@@ -302,9 +302,9 @@
              <div class="row">
                  <div class="col-lg-3 col-sm-6">
                      <h2 class="useful_text">Contact Us</h2>
-                     <div class="location_text"><img src="images/map-icon1.png"><a href="#"><span class="padding_left_15">123 Clean Street, Car City</span></a></div>
-                     <div class="location_text"><img src="images/call-icon1.png"><a href="#"><span class="padding_left_15">(+1) 8522369417</span></a></div>
-                     <div class="location_text"><img src="images/mail-icon1.png"><a href="#"><span class="padding_left_15">info@carwash.com</span></a></div>
+                     <div class="location_text"><img src="images/map-icon1.png"><a href="#"><span class="padding_left_15">5396 North Reese Avenue, Fresno CA 93722</span></a></div>
+<!--                      <div class="location_text"><img src="images/call-icon1.png"><a href="#"><span class="padding_left_15">(+1) 8522369417</span></a></div> -->
+                     <div class="location_text"><img src="images/mail-icon1.png"><a href="#"><span class="padding_left_15">info@trezocar.online</span></a></div>
                  </div>
                  <div class="col-lg-3 col-sm-6">
                      <h2 class="useful_text">Useful Links</h2>
@@ -357,7 +357,7 @@ function subscribe() {
       <!-- copyright section start -->
       <div class="copyright_section">
          <div class="container">
-            <p class="copyright_text">Copyright 2024 All Rights Reserved. Design by<a href="index.php"> Car Clean</a></p>
+            <p class="copyright_text">Copyright 2024 All Rights Reserved to Trezocar.</p>
          </div>
       </div>
       <!-- copyright section end -->
