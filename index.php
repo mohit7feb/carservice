@@ -9,7 +9,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>Car Clean</title>
+      <title>Car Service</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -53,7 +53,7 @@
                   <ul>
 <!--                       <li><img src="images/call-icon.png" class="padding_right_10"><a href="tel:+011234567890">Call: +01 1234567890</a></li> -->
                       <li><img src="images/mail-icon.png" class="padding_right_10"><a href="mailto:info@carwas">info@trezocar.online</a></li>
-                      <li><img src="images/map-icon.png" class="padding_right_10"><a href="#">5396 North Reese Avenue,Fresno CA 93722</a></li>
+                      <li><img src="images/map-icon.png" class="padding_right_10"><a href="#">5397 North Reese Avenue,Fresno CA 93722</a></li>
                   </ul>
               </div>
               
